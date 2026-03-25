@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pract14_socolov</string>
+    <string name="name_person">Имя пользователя</string>
+    <string name="Email">Адрес электронной почты</string>
+    <string name="password">Пароль</string>
+    <string name="reg_lab">Регистрация</string>
+    <string name="Button">Регистрация</string>
+</resources>
